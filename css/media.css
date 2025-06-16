@@ -32,7 +32,7 @@
     }
 
     #main-heading {
-        font-size: 50px;
+        font-size: 17px;
     }
 }
 
@@ -77,10 +77,6 @@
         height: 470px;
     } 
 
-    #main-heading {
-        font-size: 35px;
-    }
-
     #text-box {
         margin-top: 50;
     }
@@ -101,10 +97,6 @@
         left: 240px;
         height: 50px;
         top: 50px;
-    }
-
-    #main-heading {
-        font-size: 29.5px;
     }
 }
 
@@ -175,10 +167,6 @@
     .height-col-one {
         height: 289px;
     } 
-
-    #main-heading {
-        font-size: 18px;
-    }
 }
 
 @media (max-width: 323.5px){
@@ -216,8 +204,4 @@
     .height-col-one {
         height: 260px;
     } 
-
-    #main-heading {
-        font-size: 17px;
-    }
 }
